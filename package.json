@@ -1,0 +1,23 @@
+{
+  "name": "d-barchart-vanilla",
+  "description": "Example bar chart Derby component with pure js",
+  "version": "0.0.1",
+  "main": "index.js",
+  "keywords": [
+    "derby",
+    "component",
+    "datavis"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/codeparty/d-barchart-vanilla.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codeparty/d-barchart-vanilla/issues"
+  },
+  "author": "Ian Johnson",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
