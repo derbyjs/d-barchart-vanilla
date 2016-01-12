@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/codeparty/d-barchart-vanilla.git"
+    "url": "git://github.com/derbyjs/d-barchart-vanilla.git"
   },
   "bugs": {
-    "url": "https://github.com/codeparty/d-barchart-vanilla/issues"
+    "url": "https://github.com/derbyjs/d-barchart-vanilla/issues"
   },
   "author": "Ian Johnson",
   "license": "MIT",
